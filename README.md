@@ -1,5 +1,5 @@
 # 3D-VL-SOT
-Currently, tasks in this repository include **3D Object Tracking (3DOT)** and **Vision Language Tracking**. 
+Currently, tasks in this repository include **3D Object Tracking (3DOT)** and **Vision Language Tracking (VL)** and **Un/Self-supervised**. 
 - [3D](#3d-object-tracking)
 - [VL](#vision-language-tracking)
 
@@ -41,3 +41,23 @@ Currently, tasks in this repository include **3D Object Tracking (3DOT)** and **
 
 ### Preprints
 - **ModaMixer**: Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing. Divert More Attention to Vision-Language Tracking. [[Paper]](https://arxiv.org/pdf/2207.01076v1.pdf) [[Code]](https://github.com/JudasDie/SOTS)
+
+## Un/Self-supervised
+### 2019
+- **UDT**: Ning Wang, Yibing Song, Chao Ma, Wengang Zhou, Wei Liu, Houqiang Li. Unsupervised Deep Tracking. In _CVPR_, 2019. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Unsupervised_Deep_Tracking_CVPR_2019_paper.pdf) [[Code]](https://github.com/594422814/UDT)
+- **LUDT**:Ning Wang, Wengang Zhou, Yibing Song, Chao Ma, Wei Liu, Houqiang Li. Unsupervised Deep Representation Learning for Real-Time Tracking. In International Journal of Computer Vision Volume 129 Issue 2 Feb 2021.  [[Paper]](https://594422814.github.io/LUDT/LUDT.pdf) [[Code]](https://github.com/594422814/UDT)
+
+### 2020
+- **MAST**: Zihang Lai, Erika Lu, Weidi Xie. MAST: A Memory-Augmented Self-supervised Tracker. In _CVPR_, 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lai_MAST_A_Memory-Augmented_Self-Supervised_Tracker_CVPR_2020_paper.pdf) [[Code]](https://github.com/zlai0/MAST)
+
+### 2021
+- **PUL**: Qiangqiang Wu, Jia Wan, Antoni B. Chan. Progressive Unsupervised Learning for Visual Object Tracking. In _CVPR_, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Wu_Progressive_Unsupervised_Learning_for_Visual_Object_Tracking_CVPR_2021_paper.html) [Code]
+
+- **EMUT**: Adam W. Harley, Yiming Zuo, Jing Wen, Ayush Mangal, Shubhankar Potdar, Ritwick Chaudhry, Katerina Fragkiadaki. Track, Check, Repeat: An EM Approach to Unsupervised Tracking. In _CVPR_, 2021. [[Paper]](http://openaccess.thecvf.com//content/CVPR2021/papers/Harley_Track_Check_Repeat_An_EM_Approach_to_Unsupervised_Tracking_CVPR_2021_paper.pdf) [Code]
+
+### 2022
+- **ULAST**: Qiuhong Shen, Lei Qiao, Jinyang Guo, Peixia Li, Xin Li, Bo Li, Weitao Feng, Weihao Gan, Wei Wu, Wanli Ouyang. Unsupervised Learning of Accurate Siamese Tracking. In _CVPR_, 2022. [[Paper]](http://openaccess.thecvf.com//content/CVPR2022/papers/Shen_Unsupervised_Learning_of_Accurate_Siamese_Tracking_CVPR_2022_paper.pdf) [[Code]](https://github.com/florinshum/ulast)
+- **UDAT**: Junjie Ye, Changhong Fu, Guangze Zheng, Danda Pani Paudel, Guang Chen. Unsupervised Domain Adaptation for Nighttime Aerial Tracking. In _CVPR_, 2022. [[Paper]](http://openaccess.thecvf.com//content/CVPR2022/papers/Ye_Unsupervised_Domain_Adaptation_for_Nighttime_Aerial_Tracking_CVPR_2022_paper.pdf) [[Code]](https://github.com/vision4robotics/udat)
+
+### Preprints
+- **TASST**: Xin Li, Wenjie Pei, Zikun Zhou, Zhenyu He, Huchuan Lu, Ming-Hsuan Yang. Self-Supervised Tracking via Target-Aware Data Synthesis. [[Paper]](https://arxiv.org/pdf/2106.10900v2.pdf) [Code]
