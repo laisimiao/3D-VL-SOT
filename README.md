@@ -1,7 +1,8 @@
 # 3D-VL-SOT
-Currently, tasks in this repository include **3D Object Tracking (3DOT)** and **Vision Language Tracking (VL)** and **Un/Self-supervised**. 
+Currently, tasks in this repository include **3D Object Tracking (3DOT)** and **Vision Language Tracking (VL)** and **Un/Self-Supervised**. 
 - [3D](#3d-object-tracking)
 - [VL](#vision-language-tracking)
+- [Un/Self-Supervised](#un-self-supervised)
 
 ## 3D Object Tracking
 ### 2022
@@ -42,7 +43,7 @@ Currently, tasks in this repository include **3D Object Tracking (3DOT)** and **
 ### Preprints
 - **ModaMixer**: Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing. Divert More Attention to Vision-Language Tracking. [[Paper]](https://arxiv.org/pdf/2207.01076v1.pdf) [[Code]](https://github.com/JudasDie/SOTS)
 
-## Un/Self-supervised
+## Un-Self-Supervised
 ### 2019
 - **UDT**: Ning Wang, Yibing Song, Chao Ma, Wengang Zhou, Wei Liu, Houqiang Li. Unsupervised Deep Tracking. In _CVPR_, 2019. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Unsupervised_Deep_Tracking_CVPR_2019_paper.pdf) [[Code]](https://github.com/594422814/UDT)
 - **LUDT**:Ning Wang, Wengang Zhou, Yibing Song, Chao Ma, Wei Liu, Houqiang Li. Unsupervised Deep Representation Learning for Real-Time Tracking. In International Journal of Computer Vision Volume 129 Issue 2 Feb 2021.  [[Paper]](https://594422814.github.io/LUDT/LUDT.pdf) [[Code]](https://github.com/594422814/UDT)
