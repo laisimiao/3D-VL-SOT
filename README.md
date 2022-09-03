@@ -28,6 +28,7 @@ Currently, tasks in this repository include **3D Object Tracking (3DOT)** and **
 
 ### Preprints
 - **PTTR++**: Zhipeng Luo, Changqing Zhou, Liang Pan, Gongjie Zhang, Tianrui Liu, Yueru Luo, Haiyu Zhao, Ziwei Liu, Shijian Lu. PTTR++: Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer.[[Paper]](https://arxiv.org/pdf/2208.05216) [[Code]](https://github.com/Jasonkks/PTTR)
+- **PCET**: Pan Wang, Liangliang Ren, Shengkai Wu, Jinrong Yang, En Yu, Hangcheng Yu, Xiaoping Li. Implicit and Efficient Point Cloud Completion for 3D Single Object Tracking. [[Paper]](https://arxiv.org/abs/2209.00522) [Code]
 
 ## Vision Language Tracking
 ### 2017
