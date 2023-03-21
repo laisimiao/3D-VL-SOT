@@ -35,14 +35,21 @@ Currently, tasks in this repository include **3D Object Tracking (3DOT)** and **
 - **LPN**: Zhenyang Li, Ran Tao, Efstratios Gavves, Cees G. M. Snoek, Arnold W.M. Smeulders. Tracking by Natural Language Specification. In _CVPR_, 2017.[[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Tracking_by_Natural_CVPR_2017_paper.pdf) [Code]
 
 ### 2020
-- **RVOTNLD**: Qi Feng, Vitaly Ablavsky, Qinxun Bai, Guorong Li, Stan Sclaroff. Real-time Visual Object Tracking with Natural Language Description. In _WACV_, 2020. [[Paper]](https://arxiv.org/pdf/1907.11751v3.pdf) [Code]
+- **RTNL**: Qi Feng, Vitaly Ablavsky, Qinxun Bai, Guorong Li, Stan Sclaroff. Real-time Visual Object Tracking with Natural Language Description. In _WACV_, 2020. [[Paper]](https://arxiv.org/pdf/1907.11751v3.pdf) [Code]
 
 ### 2021
+- **CapsuleTNL**: Ding Ma, Xiangqian Wu. Capsule-based Object Tracking with Natural Language. In _ACMMM_, 2021.[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475349)
 - **SNLT**: Qi Feng, Vitaly Ablavsky, Qinxun Bai, Stan Sclaroff. Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers. In _CVPR_, 2021. [[Paper]](http://openaccess.thecvf.com//content/CVPR2021/papers/Feng_Siamese_Natural_Language_Tracker_Tracking_by_Natural_Language_Descriptions_With_CVPR_2021_paper.pdf) [[Code]](https://github.com/fredfung007/snlt)
 - **TNL2K**: Xiao Wang, Xiujun Shu, Zhipeng Zhang, Bo Jiang, YaoWei Wang, Yonghong Tian, Feng Wu. Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark. In _CVPR_, 2021. [[Paper]](http://openaccess.thecvf.com//content/CVPR2021/papers/Wang_Towards_More_Flexible_and_Accurate_Object_Tracking_With_Natural_Language_CVPR_2021_paper.pdf) [[Code]](https://github.com/wangxiao5791509/TNL2K_evaluation_toolkit)
 
+### 2022
+- **ModaMixer**: Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing. Divert More Attention to Vision-Language Tracking. In _NeurIPS_, 2022. [[Paper]](https://openreview.net/forum?id=NhrbIME2Ljl) [[Code]](https://github.com/JudasDie/SOTS)
+
+### 2023
+- **TransVLT**: Haojie Zhao, Xiao Wang, Dong Wang, Huchuan Lu, Xiang Ruan. Transformer vision-language tracking via proxy token guided cross-modal fusion. In _PR Letters_, 2023. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167865523000545?via%3Dihub)
+
 ### Preprints
-- **ModaMixer**: Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing. Divert More Attention to Vision-Language Tracking. [[Paper]](https://arxiv.org/pdf/2207.01076v1.pdf) [[Code]](https://github.com/JudasDie/SOTS)
+stay tuned
 
 ## Un-Self-Supervised
 ### 2019
