@@ -48,11 +48,13 @@ stay tuned
 
 ### 2022
 - **ModaMixer**: Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing. Divert More Attention to Vision-Language Tracking. In _NeurIPS_, 2022. [[Paper]](https://openreview.net/forum?id=NhrbIME2Ljl) [[Code]](https://github.com/JudasDie/SOTS)
+- **CTRNLT**: Yihao Li, Jun Yu, Zhongpeng Cai, and Yuwen Pan. Cross-modal target retrieval for tracking by natural language. In _CVPRW_, 2022. [[paper]](https://openaccess.thecvf.com/content/CVPR2022W/ODRUM/papers/Li_Cross-Modal_Target_Retrieval_for_Tracking_by_Natural_Language_CVPRW_2022_paper.pdf)
 
 ### 2021
 - **CapsuleTNL**: Ding Ma, Xiangqian Wu. Capsule-based Object Tracking with Natural Language. In _ACMMM_, 2021.[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475349)
 - **SNLT**: Qi Feng, Vitaly Ablavsky, Qinxun Bai, Stan Sclaroff. Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers. In _CVPR_, 2021. [[Paper]](http://openaccess.thecvf.com//content/CVPR2021/papers/Feng_Siamese_Natural_Language_Tracker_Tracking_by_Natural_Language_Descriptions_With_CVPR_2021_paper.pdf) [[Code]](https://github.com/fredfung007/snlt)
 - **TNL2K**: Xiao Wang, Xiujun Shu, Zhipeng Zhang, Bo Jiang, YaoWei Wang, Yonghong Tian, Feng Wu. Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark. In _CVPR_, 2021. [[Paper]](http://openaccess.thecvf.com//content/CVPR2021/papers/Wang_Towards_More_Flexible_and_Accurate_Object_Tracking_With_Natural_Language_CVPR_2021_paper.pdf) [[Code]](https://github.com/wangxiao5791509/TNL2K_evaluation_toolkit)
+- **GTI**: Zhengyuan Yang, Tushar Kumar, Tianlang Chen, Jinsong Su, Jiebo Luo. Grounding-tracking-integration. In _TCSVT_, 2021. [[paper]](https://arxiv.org/abs/1912.06316) 
 
 ### 2020
 - **RTNL**: Qi Feng, Vitaly Ablavsky, Qinxun Bai, Guorong Li, Stan Sclaroff. Real-time Visual Object Tracking with Natural Language Description. In _WACV_, 2020. [[Paper]](https://arxiv.org/pdf/1907.11751v3.pdf) [Code]
