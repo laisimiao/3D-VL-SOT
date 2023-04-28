@@ -14,6 +14,8 @@ Currently, tasks in this repository include **3D Object Tracking (3DOT)** and **
 - **OPSNet**: Kaijie Zhao, Haitao Zhao, Zhongze Wang, Jingchao Peng, Zhengwei Hu. Object Preserving Siamese Network for Single Object Tracking on Point Clouds. [[Paper]](http://arxiv.org/abs/2301.12057) [[Code]]
 
 ### 2023
+- **OSP2B**: Jiahao Nie, Zhiwei He, Yuxiang Yang, Zhengyi Bao, Mingyu Gao, Jing Zhang. OSP2B: One-Stage Point-to-Box Network for 3D Siamese Tracking. In _IJCAI_, 2023. [[Paper]](http://arxiv.org/abs/2304.11584) [[Code]]
+- **CXTrack**: Tian-Xing Xu, Yuan-Chen Guo, Yu-Kun Lai, Song-Hai Zhang. Improving 3D Point Cloud Tracking with Contextual Information. In _CVPR_, 2023. [[Paper]](http://arxiv.org/abs/2211.08542) [[Code]](https://github.com/slothfulxtx/cxtrack3d)
 - **GLT-T**: Jiahao Nie, Zhiwei He, Yuxiang Yang, Mingyu Gao, Jing Zhang. Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds. In _AAAI_, 2023. [[Paper]](https://arxiv.org/abs/2211.10927)[[Code]](https://github.com/haooozi/GLT-T)
 
 ### 2022
@@ -32,7 +34,7 @@ Currently, tasks in this repository include **3D Object Tracking (3DOT)** and **
 - **lttr**: Yubo Cui, Zheng Fang, Jiayao Shan, Zuoxu Gu, Sifan Zhou. 3D Object Tracking with Transformer. In _BMVC_, 2021. [[Paper]](bmvc2021-virtualconference.com/assets/papers/1445.pdf) [[Code]](https://github.com/3bobo/lttr)
 
 ### 2020
-- **???**: Peiliang Li, Jieqi Shi, Shaojie Shen. Joint Spatial-Temporal Optimization for Stereo 3D Object Tracking. In _CVPR_, 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Joint_Spatial-Temporal_Optimization_for_Stereo_3D_Object_Tracking_CVPR_2020_paper.pdf) [Code]
+- Peiliang Li, Jieqi Shi, Shaojie Shen. Joint Spatial-Temporal Optimization for Stereo 3D Object Tracking. In _CVPR_, 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Joint_Spatial-Temporal_Optimization_for_Stereo_3D_Object_Tracking_CVPR_2020_paper.pdf) [Code]
 - **P2B**: Haozhe Qi, Chen Feng, Zhiguo Cao, Feng Zhao, Yang Xiao. P2B: Point-to-Box Network for 3D Object Tracking in Point Clouds. In _CVPR_, 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qi_P2B_Point-to-Box_Network_for_3D_Object_Tracking_in_Point_Clouds_CVPR_2020_paper.pdf) [[Code]](https://github.com/HaozheQi/P2B)
 - **3D-ZeF**: Malte Pedersen, Joakim Bruslund Haurum, Stefan Hein Bengtson, Thomas B. Moeslund. 3D-ZeF: A 3D Zebrafish Tracking Benchmark Dataset. In _CVPR_, 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pedersen_3D-ZeF_A_3D_Zebrafish_Tracking_Benchmark_Dataset_CVPR_2020_paper.pdf) [[Project]](https://vap.aau.dk/3d-zef/) [[Challenge]](https://motchallenge.net/data/3D-ZeF20/)
 - **F-Siamese**: Hao Zou, Jinhao Cui, Xin Kong, Chujuan Zhang, Yong Liu, Feng Wen, Wanlong Li. F-Siamese Tracker: A Frustum-based Double Siamese Network for 3D Single Object Tracking. In _IROS_, 2020. [[Paper]](http://ras.papercept.net/images/temp/IROS/files/1722.pdf) [Code]
