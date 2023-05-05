@@ -47,6 +47,7 @@ stay tuned
 
 ### 2023
 - **TransVLT**: Haojie Zhao, Xiao Wang, Dong Wang, Huchuan Lu, Xiang Ruan. Transformer vision-language tracking via proxy token guided cross-modal fusion. In _PR Letters_, 2023. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167865523000545?via%3Dihub)
+- **JointNLT**: Li Zhou, Zikun Zhou, Kaige Mao, Zhenyu He. Joint Visual Grounding and Tracking with Natural Language Specification. In _CVPR_, 2023. [[Paper]](https://arxiv.org/abs/2303.12027) [[Code]](https://github.com/lizhou-cs/JointNLT)
 
 ### 2022
 - **ModaMixer**: Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing. Divert More Attention to Vision-Language Tracking. In _NeurIPS_, 2022. [[Paper]](https://openreview.net/forum?id=NhrbIME2Ljl) [[Code]](https://github.com/JudasDie/SOTS)
