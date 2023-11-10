@@ -46,6 +46,9 @@ Currently, tasks in this repository include **3D Object Tracking (3DOT)** and **
 stay tuned
 
 ### 2023
+- **MMTrack**: Towards Unified Token Learning for Vision-Language Tracking. Yaozong Zheng, Bineng Zhong, Qihua Liang, Guorong Li, Rongrong Ji, Xianxian Li. In _TCSVT_, 2023. [[Paper]](https://arxiv.org/abs/2308.14103)
+- **CiteTracker**: Xin Li, Yuqing Huang, Zhenyu He, Yaowei Wang, Huchuan Lu, Ming-Hsuan Yang. CiteTracker: Correlating Image and Text for Visual Tracking. In _ICCV_, 2023. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_CiteTracker_Correlating_Image_and_Text_for_Visual_Tracking_ICCV_2023_paper.pdf)
+- **All-in-One**: Chunhui Zhang, Xin Sun, Li Liu, Yiqian Yang, Qiong Liu, Xi Zhou, Yanfeng Wang. All in One: Exploring Unified Vision-Language Tracking with Multi-Modal Alignment. In _ACMMM_, 2023. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3611803)
 - **TransVLT**: Haojie Zhao, Xiao Wang, Dong Wang, Huchuan Lu, Xiang Ruan. Transformer vision-language tracking via proxy token guided cross-modal fusion. In _PR Letters_, 2023. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167865523000545?via%3Dihub)
 - **JointNLT**: Li Zhou, Zikun Zhou, Kaige Mao, Zhenyu He. Joint Visual Grounding and Tracking with Natural Language Specification. In _CVPR_, 2023. [[Paper]](https://arxiv.org/abs/2303.12027) [[Code]](https://github.com/lizhou-cs/JointNLT)
 
